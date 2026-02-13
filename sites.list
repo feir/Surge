@@ -31,5 +31,7 @@ DOMAIN-SUFFIX,podwise.ai
 ## APPS
 PROCESS-NAME,com.openai.chatgpt
 
+## AI
+DOMAIN-SUFFIX,claude.com
 
 
