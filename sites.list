@@ -1,5 +1,8 @@
 # NAME: additional sites
 
+## GOV
+DOMAIN-SUFFIX,wy.gov
+
 ## Group: Porn
 DOMAIN-SUFFIX,fuq.com
 DOMAIN-SUFFIX,xvideos.com
