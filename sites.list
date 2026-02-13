@@ -1,8 +1,8 @@
 # NAME: additional sites
 
 ## GOV
-DOMAIN-SUFFIX,wy.gov
 DOMAIN-SUFFIX,wyo.gov
+
 
 ## Group: Porn
 DOMAIN-SUFFIX,fuq.com
@@ -17,5 +17,13 @@ DOMAIN-SUFFIX,jable.tv
 ## Group: others
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,loudcone.com
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN,ip.skk.moe
+
+## APPS
+PROCESS-NAME,com.openai.chatgpt
+
 
 
