@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN,ip.skk.moe
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,podwise.ai
-
+DOMAIN,news.ycombinator.com
 
 ## APPS
 PROCESS-NAME,com.openai.chatgpt
