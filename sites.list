@@ -34,5 +34,6 @@ PROCESS-NAME,com.openai.chatgpt
 ## AI
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
 
 
