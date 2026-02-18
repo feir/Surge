@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,podwise.ai
 DOMAIN,news.ycombinator.com
 DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,cloudcone.com
 
 ## APPS
 PROCESS-NAME,com.openai.chatgpt
