@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,readhacker.news
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,polymarket.com
+
 
 ## APPS
 PROCESS-NAME,com.openai.chatgpt
